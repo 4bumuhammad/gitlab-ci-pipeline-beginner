@@ -15,6 +15,24 @@ git remote add origin https://&lt;access-token-name&gt;:&lt;access-token&gt;@git
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_001.png" alt="ss_gitlab_pipeline_001" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_002.png" alt="ss_gitlab_pipeline_002" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_003.png" alt="ss_gitlab_pipeline_003" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
 Files : 
 <pre>
     ❯ cd from-gitlab-my-simple-pipeline
@@ -77,25 +95,31 @@ In gitlab, for the pipeline to automatically activate when the repository recogn
 &nbsp;
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_gitlab_pipeline_001.png" alt="ss_gitlab_pipeline_001" style="display: block; margin: 0 auto;">
-</div> 
-
-&nbsp;
-
-<div align="center">
-    <img src="./gambar-petunjuk/ss_gitlab_pipeline_002.png" alt="ss_gitlab_pipeline_002" style="display: block; margin: 0 auto;">
-</div> 
-
-&nbsp;
-
-<div align="center">
-    <img src="./gambar-petunjuk/ss_gitlab_pipeline_003.png" alt="ss_gitlab_pipeline_003" style="display: block; margin: 0 auto;">
-</div> 
-
-&nbsp;
-
-<div align="center">
     <img src="./gambar-petunjuk/ss_gitlab_pipeline_004.png" alt="ss_gitlab_pipeline_004" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_005.png" alt="ss_gitlab_pipeline_005" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_006.png" alt="ss_gitlab_pipeline_006" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_007.png" alt="ss_gitlab_pipeline_007" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_008.png" alt="ss_gitlab_pipeline_008" style="display: block; margin: 0 auto;">
 </div> 
 
 &nbsp;
