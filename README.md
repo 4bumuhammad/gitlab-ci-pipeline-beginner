@@ -124,6 +124,10 @@ In gitlab, for the pipeline to automatically activate when the repository recogn
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_009.png" alt="ss_gitlab_pipeline_009" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 &nbsp;
