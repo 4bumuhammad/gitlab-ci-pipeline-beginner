@@ -61,7 +61,7 @@ File Pipeline
 
 In gitlab, for the pipeline to automatically activate when the repository recognizes the `.gitlab-ci.yml' file.
 <pre>
-    ❯ git init .
+    ❯ git init
 
     ❯ git add .
 
