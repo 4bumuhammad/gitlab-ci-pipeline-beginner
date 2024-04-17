@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## gitlab - Push to a repository using access_token 
+### Gitlab - Push to a repository using access_token 
 git remote add origin https://&lt;access-token-name&gt;:&lt;access-token&gt;@gitlab.com/dhony21/from-gitlab-my-simple-pipeline.git
 
 &nbsp;
