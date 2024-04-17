@@ -1,4 +1,4 @@
-# Gitlab : CI Pipeline Beginner
+# &#x1F6A9; Gitlab : CI Pipeline Beginner
 
 &nbsp;
 
@@ -76,8 +76,27 @@ In gitlab, for the pipeline to automatically activate when the repository recogn
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_001.png" alt="ss_gitlab_pipeline_001" style="display: block; margin: 0 auto;">
+</div> 
 
+&nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_002.png" alt="ss_gitlab_pipeline_002" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_003.png" alt="ss_gitlab_pipeline_003" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_gitlab_pipeline_004.png" alt="ss_gitlab_pipeline_004" style="display: block; margin: 0 auto;">
+</div> 
 
 &nbsp;
 
